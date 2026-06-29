@@ -12,6 +12,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/charan0003/Leetcode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/charan0003/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/charan0003/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/charan0003/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/charan0003/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
