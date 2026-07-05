@@ -61,6 +61,7 @@ LeetCode
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ LeetCode
 | [0110-balanced-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ LeetCode
 | [0110-balanced-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@ LeetCode
 | [0110-balanced-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
