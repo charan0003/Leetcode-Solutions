@@ -12,6 +12,7 @@ LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/charan0003/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ LeetCode
 | [0058-length-of-last-word](https://github.com/charan0003/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
