@@ -12,6 +12,7 @@ LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/charan0003/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ LeetCode
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0136-single-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ LeetCode
 | [0015-3sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/charan0003/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +194,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +214,8 @@ LeetCode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
