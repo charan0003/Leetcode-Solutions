@@ -29,6 +29,7 @@ LeetCode
 | [0070-climbing-stairs](https://github.com/charan0003/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ LeetCode
 | [0024-swap-nodes-in-pairs](https://github.com/charan0003/Leetcode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +235,7 @@ LeetCode
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
