@@ -24,6 +24,7 @@ LeetCode
 | [0012-integer-to-roman](https://github.com/charan0003/Leetcode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/charan0003/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/charan0003/Leetcode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/charan0003/Leetcode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/charan0003/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/charan0003/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
@@ -45,6 +46,7 @@ LeetCode
 | [0020-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/charan0003/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -266,4 +268,8 @@ LeetCode
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/charan0003/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/charan0003/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
