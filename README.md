@@ -16,6 +16,7 @@ LeetCode
 | [0160-intersection-of-two-linked-lists](https://github.com/charan0003/Leetcode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ LeetCode
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ LeetCode
 | [0075-sort-colors](https://github.com/charan0003/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
