@@ -73,6 +73,7 @@ LeetCode
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/charan0003/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/charan0003/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -156,6 +157,7 @@ LeetCode
 | [0005-longest-palindromic-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/charan0003/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -229,6 +231,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
