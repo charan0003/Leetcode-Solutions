@@ -245,6 +245,7 @@ LeetCode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +261,7 @@ LeetCode
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 ## Backtracking
