@@ -81,6 +81,7 @@ LeetCode
 | [0053-maximum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0057-insert-interval](https://github.com/charan0003/Leetcode-Solutions/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/charan0003/Leetcode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/charan0003/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
@@ -166,6 +167,7 @@ LeetCode
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/charan0003/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -292,6 +294,7 @@ LeetCode
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/charan0003/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/charan0003/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
