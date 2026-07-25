@@ -36,6 +36,7 @@ LeetCode
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
