@@ -18,6 +18,7 @@ LeetCode
 | [0202-happy-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ LeetCode
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ LeetCode
 | [0136-single-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0228-summary-ranges](https://github.com/charan0003/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@ LeetCode
 | [0035-search-insert-position](https://github.com/charan0003/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/charan0003/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +192,7 @@ LeetCode
 | [0088-merge-sorted-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +283,7 @@ LeetCode
 | [0191-number-of-1-bits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
