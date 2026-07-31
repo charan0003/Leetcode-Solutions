@@ -41,6 +41,7 @@ LeetCode
 | [0258-add-digits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ LeetCode
 | [0206-reverse-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
