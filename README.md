@@ -42,6 +42,7 @@ LeetCode
 | [0263-ugly-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,6 +148,7 @@ LeetCode
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
