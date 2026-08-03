@@ -44,6 +44,7 @@ LeetCode
 | [0292-nim-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ LeetCode
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/charan0003/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ LeetCode
 | [0070-climbing-stairs](https://github.com/charan0003/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,4 +364,13 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
