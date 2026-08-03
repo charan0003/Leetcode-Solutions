@@ -63,6 +63,7 @@ LeetCode
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/charan0003/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/charan0003/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -98,6 +99,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/charan0003/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/charan0003/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -240,6 +242,7 @@ LeetCode
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
@@ -322,6 +325,7 @@ LeetCode
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -334,6 +338,7 @@ LeetCode
 | [0048-rotate-image](https://github.com/charan0003/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/charan0003/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
