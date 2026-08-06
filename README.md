@@ -21,6 +21,7 @@ LeetCode
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/charan0003/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ LeetCode
 | [0283-move-zeroes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/charan0003/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -187,6 +189,7 @@ LeetCode
 | [0344-reverse-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +237,7 @@ LeetCode
 | [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
