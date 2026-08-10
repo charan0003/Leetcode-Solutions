@@ -215,6 +215,7 @@ LeetCode
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/charan0003/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/charan0003/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +416,5 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/charan0003/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/charan0003/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
