@@ -73,6 +73,7 @@ LeetCode
 | [0071-simplify-path](https://github.com/charan0003/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/charan0003/Leetcode-Solutions/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -369,6 +370,7 @@ LeetCode
 | [0077-combinations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/charan0003/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
