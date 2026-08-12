@@ -25,6 +25,7 @@ LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/charan0003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ LeetCode
 | [0345-reverse-vowels-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/charan0003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ LeetCode
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +357,7 @@ LeetCode
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
