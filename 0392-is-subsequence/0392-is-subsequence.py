@@ -6,4 +6,4 @@ class Solution:
             if s[i]==t[j]:
                 i+=1
             j+=1
-        return len(s)==i
+        return i==len(s)
