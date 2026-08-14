@@ -367,6 +367,7 @@ LeetCode
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +381,7 @@ LeetCode
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
