@@ -284,6 +284,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ LeetCode
 | [0145-binary-tree-postorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +336,7 @@ LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
