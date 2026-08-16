@@ -52,6 +52,7 @@ LeetCode
 | [0326-power-of-three](https://github.com/charan0003/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/charan0003/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +382,7 @@ LeetCode
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
