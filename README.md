@@ -132,6 +132,7 @@ LeetCode
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0228-summary-ranges](https://github.com/charan0003/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
@@ -251,6 +252,7 @@ LeetCode
 | [0091-decode-ways](https://github.com/charan0003/Leetcode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0118-pascals-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0392-is-subsequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## Memoization
