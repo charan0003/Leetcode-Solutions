@@ -54,6 +54,7 @@ LeetCode
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/charan0003/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ LeetCode
 | [0392-is-subsequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -439,6 +441,7 @@ LeetCode
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0258-add-digits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
