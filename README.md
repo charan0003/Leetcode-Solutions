@@ -59,6 +59,7 @@ LeetCode
 | [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
