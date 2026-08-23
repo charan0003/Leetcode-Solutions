@@ -59,6 +59,7 @@ LeetCode
 | [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -99,6 +100,7 @@ LeetCode
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +377,7 @@ LeetCode
 | [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -479,6 +482,7 @@ LeetCode
 | ------- | ------- |
 | [0292-nim-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0292-nim-game/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
