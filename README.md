@@ -11,6 +11,7 @@ LeetCode
 | [0013-roman-to-integer](https://github.com/charan0003/Leetcode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/charan0003/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -118,6 +119,7 @@ LeetCode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/charan0003/Leetcode-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/charan0003/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
@@ -432,6 +434,7 @@ LeetCode
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
@@ -452,6 +455,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/charan0003/Leetcode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/charan0003/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/charan0003/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -535,4 +539,12 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
