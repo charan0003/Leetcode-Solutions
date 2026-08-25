@@ -30,6 +30,7 @@ LeetCode
 | [0387-first-unique-character-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@ LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
