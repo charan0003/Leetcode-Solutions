@@ -124,6 +124,7 @@ LeetCode
 | [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/charan0003/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/charan0003/Leetcode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -171,6 +172,7 @@ LeetCode
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/charan0003/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -226,6 +228,7 @@ LeetCode
 | [0027-remove-element](https://github.com/charan0003/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/charan0003/Leetcode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/charan0003/Leetcode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -270,6 +273,7 @@ LeetCode
 | [0005-longest-palindromic-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -555,4 +559,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/charan0003/Leetcode-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
