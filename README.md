@@ -70,6 +70,7 @@ LeetCode
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ LeetCode
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
