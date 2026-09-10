@@ -606,4 +606,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
