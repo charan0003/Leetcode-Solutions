@@ -71,6 +71,7 @@ LeetCode
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/charan0003/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/charan0003/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -486,6 +487,7 @@ LeetCode
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/charan0003/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
