@@ -37,6 +37,7 @@ LeetCode
 | [0424-longest-repeating-character-replacement](https://github.com/charan0003/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -121,6 +122,7 @@ LeetCode
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/charan0003/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ LeetCode
 | [0367-valid-perfect-square](https://github.com/charan0003/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/charan0003/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/charan0003/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -528,6 +531,7 @@ LeetCode
 | [0225-implement-stack-using-queues](https://github.com/charan0003/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/charan0003/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/charan0003/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
