@@ -73,6 +73,7 @@ LeetCode
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/charan0003/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/charan0003/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/charan0003/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -640,4 +641,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/charan0003/Leetcode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
