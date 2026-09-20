@@ -15,6 +15,7 @@ LeetCode
 | [0037-sudoku-solver](https://github.com/charan0003/Leetcode-Solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/charan0003/Leetcode-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/charan0003/Leetcode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -101,6 +102,7 @@ LeetCode
 | [0058-length-of-last-word](https://github.com/charan0003/Leetcode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/charan0003/Leetcode-Solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/charan0003/Leetcode-Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0076-minimum-window-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/charan0003/Leetcode-Solutions/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -474,6 +476,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/charan0003/Leetcode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/charan0003/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 ## Bit Manipulation
