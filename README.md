@@ -185,6 +185,7 @@ LeetCode
 | [0228-summary-ranges](https://github.com/charan0003/Leetcode-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/charan0003/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -290,6 +291,7 @@ LeetCode
 | [0202-happy-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -314,6 +316,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/charan0003/Leetcode-Solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/charan0003/Leetcode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -496,6 +499,7 @@ LeetCode
 | [0222-count-complete-tree-nodes](https://github.com/charan0003/Leetcode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/charan0003/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/charan0003/Leetcode-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
@@ -647,6 +651,7 @@ LeetCode
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -659,4 +664,8 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/charan0003/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
