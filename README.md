@@ -631,6 +631,7 @@ LeetCode
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
