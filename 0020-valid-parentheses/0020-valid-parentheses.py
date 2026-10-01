@@ -6,13 +6,13 @@ class Solution:
             "]":"[",
             "}":"{"
         }
+
         for c in s:
             if c in closeToOpen:
-                if stack and stack[-1] ==closeToOpen[c]:
+                if stack and stack[-1]==closeToOpen[c]:
                     stack.pop()
                 else:
-                   return False
+                    return False
             else:
                 stack.append(c)
         return not stack
-
