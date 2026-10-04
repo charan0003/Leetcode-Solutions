@@ -127,6 +127,7 @@ LeetCode
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/charan0003/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Array
@@ -223,6 +224,7 @@ LeetCode
 | [0225-implement-stack-using-queues](https://github.com/charan0003/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/charan0003/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/charan0003/Leetcode-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/charan0003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/charan0003/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
 ## Linked List
@@ -343,6 +345,7 @@ LeetCode
 | [0120-triangle](https://github.com/charan0003/Leetcode-Solutions/tree/main/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
@@ -464,6 +467,7 @@ LeetCode
 | [0055-jump-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -634,6 +638,7 @@ LeetCode
 | [0020-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
