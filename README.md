@@ -129,6 +129,7 @@ LeetCode
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Array
@@ -229,6 +230,7 @@ LeetCode
 | [0739-daily-temperatures](https://github.com/charan0003/Leetcode-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/charan0003/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +472,7 @@ LeetCode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/charan0003/Leetcode-Solutions/tree/main/0409-longest-palindrome/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -642,6 +645,7 @@ LeetCode
 | [0032-longest-valid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
