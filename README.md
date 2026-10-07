@@ -115,6 +115,7 @@ LeetCode
 | [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/charan0003/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/charan0003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
@@ -462,6 +463,7 @@ LeetCode
 | [0111-minimum-depth-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@ LeetCode
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/charan0003/Leetcode-Solutions/tree/main/0401-binary-watch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
