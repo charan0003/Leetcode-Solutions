@@ -132,6 +132,7 @@ LeetCode
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -232,6 +233,7 @@ LeetCode
 | [0853-car-fleet](https://github.com/charan0003/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +651,7 @@ LeetCode
 | [0678-valid-parenthesis-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan0003/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
