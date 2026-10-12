@@ -41,6 +41,7 @@ LeetCode
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@ LeetCode
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -486,6 +488,7 @@ LeetCode
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,6 +535,7 @@ LeetCode
 | [0405-convert-a-number-to-hexadecimal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/charan0003/Leetcode-Solutions/tree/main/0461-hamming-distance/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/charan0003/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
