@@ -1,20 +1,23 @@
 class Solution:
-    def permute(self, nums: List[int]) -> List[List[int]]:
-        result = []
+    def permute(self, nums: list[int]) -> list[list[int]]:
+        res = []
+        perm = []
+        pick = [False] * len(nums)
 
-        if len(nums) == 1:
-            return [nums[:]]
+        def backtrack():
+            if len(perm) == len(nums):
+                res.append(perm.copy())
+                return
 
-        for i in range(len(nums)):
-            n = nums.pop(0)
+            for i in range(len(nums)):
+                if not pick[i]:
+                    perm.append(nums[i])
+                    pick[i] = True
 
-            perms = self.permute(nums)
+                    backtrack()
 
-            for perm in perms:
-                perm.append(n)
+                    perm.pop()
+                    pick[i] = False
 
-            result.extend(perms)
-            nums.append(n)
-
-        return result
-        
+        backtrack()
+        return res
