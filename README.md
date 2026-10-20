@@ -89,6 +89,7 @@ LeetCode
 | [3871-count-commas-in-range-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/charan0003/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +224,7 @@ LeetCode
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/charan0003/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -404,6 +406,7 @@ LeetCode
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/charan0003/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,6 +756,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/charan0003/Leetcode-Solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
