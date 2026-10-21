@@ -1,7 +1,9 @@
 class Solution:
-    def letterCombinations(self, digits: str) -> List[str]:
-        res = []
+    def letterCombinations(self, digits: str) -> list[str]:
+        if not digits:
+            return []
 
+        res = []
         digitToChar = {
             "2": "abc",
             "3": "def",
@@ -14,15 +16,12 @@ class Solution:
         }
 
         def backtrack(i, curStr):
-            if len(curStr) == len(digits):
+            if i == len(digits):
                 res.append(curStr)
                 return
 
             for c in digitToChar[digits[i]]:
                 backtrack(i + 1, curStr + c)
 
-        if digits:
-            backtrack(0, "")
-
+        backtrack(0, "")
         return res
-        
