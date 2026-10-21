@@ -143,6 +143,7 @@ LeetCode
 | [1021-remove-outermost-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
