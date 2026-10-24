@@ -120,6 +120,7 @@ LeetCode
 | [0168-excel-sheet-column-title](https://github.com/charan0003/Leetcode-Solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/charan0003/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/charan0003/Leetcode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/charan0003/Leetcode-Solutions/tree/main/0290-word-pattern/) | Easy |
@@ -235,6 +236,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/charan0003/Leetcode-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/charan0003/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +460,7 @@ LeetCode
 | [0129-sum-root-to-leaf-numbers](https://github.com/charan0003/Leetcode-Solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/charan0003/Leetcode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/charan0003/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/charan0003/Leetcode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -615,6 +618,7 @@ LeetCode
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/charan0003/Leetcode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/charan0003/Leetcode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/charan0003/Leetcode-Solutions/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/charan0003/Leetcode-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/charan0003/Leetcode-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
