@@ -216,6 +216,7 @@ LeetCode
 | [0853-car-fleet](https://github.com/charan0003/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/charan0003/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+| [1046-last-stone-weight](https://github.com/charan0003/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -687,6 +688,7 @@ LeetCode
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/charan0003/Leetcode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/charan0003/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
