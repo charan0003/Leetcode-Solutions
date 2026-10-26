@@ -225,6 +225,7 @@ LeetCode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charan0003/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -468,6 +469,7 @@ LeetCode
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,6 +516,7 @@ LeetCode
 | [0301-remove-invalid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -617,6 +620,7 @@ LeetCode
 | [0074-search-a-2d-matrix](https://github.com/charan0003/Leetcode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -698,6 +702,7 @@ LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
