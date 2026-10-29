@@ -146,6 +146,7 @@ LeetCode
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/charan0003/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -231,6 +232,7 @@ LeetCode
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charan0003/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charan0003/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -451,6 +453,7 @@ LeetCode
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +478,7 @@ LeetCode
 | [0543-diameter-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -554,6 +558,7 @@ LeetCode
 | [0215-kth-largest-element-in-an-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,6 +595,7 @@ LeetCode
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/charan0003/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charan0003/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charan0003/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -793,11 +799,13 @@ LeetCode
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
