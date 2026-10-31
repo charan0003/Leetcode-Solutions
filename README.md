@@ -231,6 +231,7 @@ LeetCode
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/charan0003/Leetcode-Solutions/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/charan0003/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -394,6 +395,7 @@ LeetCode
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1025-divisor-game/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/charan0003/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charan0003/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -635,6 +637,7 @@ LeetCode
 | [0079-word-search](https://github.com/charan0003/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3665-twisted-mirror-path-count](https://github.com/charan0003/Leetcode-Solutions/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/charan0003/Leetcode-Solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
