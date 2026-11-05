@@ -226,6 +226,7 @@ LeetCode
 | [0877-stone-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1046-last-stone-weight](https://github.com/charan0003/Leetcode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -353,6 +354,7 @@ LeetCode
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@ LeetCode
 | [0441-arranging-coins](https://github.com/charan0003/Leetcode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/charan0003/Leetcode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/charan0003/Leetcode-Solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Dynamic Programming
@@ -430,6 +433,7 @@ LeetCode
 | [0389-find-the-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/charan0003/Leetcode-Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0853-car-fleet](https://github.com/charan0003/Leetcode-Solutions/tree/main/0853-car-fleet/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/charan0003/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan0003/Leetcode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/charan0003/Leetcode-Solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
