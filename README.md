@@ -239,6 +239,7 @@ LeetCode
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charan0003/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -608,6 +609,7 @@ LeetCode
 | [0076-minimum-window-substring](https://github.com/charan0003/Leetcode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/charan0003/Leetcode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charan0003/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -708,6 +710,7 @@ LeetCode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/charan0003/Leetcode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
