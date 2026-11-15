@@ -504,6 +504,7 @@ LeetCode
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/charan0003/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/charan0003/Leetcode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -558,6 +559,7 @@ LeetCode
 | [0301-remove-invalid-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/charan0003/Leetcode-Solutions/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0417-pacific-atlantic-water-flow](https://github.com/charan0003/Leetcode-Solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0684-redundant-connection](https://github.com/charan0003/Leetcode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
@@ -762,6 +764,7 @@ LeetCode
 | [0128-longest-consecutive-sequence](https://github.com/charan0003/Leetcode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/charan0003/Leetcode-Solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/charan0003/Leetcode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/charan0003/Leetcode-Solutions/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -866,6 +869,7 @@ LeetCode
 | [0133-clone-graph](https://github.com/charan0003/Leetcode-Solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/charan0003/Leetcode-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0684-redundant-connection](https://github.com/charan0003/Leetcode-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/charan0003/Leetcode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
