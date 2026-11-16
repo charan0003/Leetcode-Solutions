@@ -151,6 +151,7 @@ LeetCode
 | [1021-remove-outermost-parentheses](https://github.com/charan0003/Leetcode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/charan0003/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/charan0003/Leetcode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -704,6 +705,7 @@ LeetCode
 | [0258-add-digits](https://github.com/charan0003/Leetcode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
