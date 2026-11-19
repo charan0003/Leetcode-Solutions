@@ -45,6 +45,7 @@ LeetCode
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3005-count-elements-with-maximum-frequency](https://github.com/charan0003/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charan0003/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/charan0003/Leetcode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan0003/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -239,6 +240,7 @@ LeetCode
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/charan0003/Leetcode-Solutions/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan0003/Leetcode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/charan0003/Leetcode-Solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3005-count-elements-with-maximum-frequency](https://github.com/charan0003/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/charan0003/Leetcode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charan0003/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -662,6 +664,7 @@ LeetCode
 | [0347-top-k-frequent-elements](https://github.com/charan0003/Leetcode-Solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/charan0003/Leetcode-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/charan0003/Leetcode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
