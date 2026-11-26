@@ -91,6 +91,7 @@ LeetCode
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/charan0003/Leetcode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1927-sum-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/charan0003/Leetcode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/charan0003/Leetcode-Solutions/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan0003/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/charan0003/Leetcode-Solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -719,6 +720,7 @@ LeetCode
 | [0412-fizz-buzz](https://github.com/charan0003/Leetcode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/charan0003/Leetcode-Solutions/tree/main/0415-add-strings/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/charan0003/Leetcode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/charan0003/Leetcode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
